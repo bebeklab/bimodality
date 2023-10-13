@@ -1,0 +1,17 @@
+sample	phenotype
+APCF1	cancer
+APCF1.1	cancer
+APCF1.2	cancer
+APCF1.3	cancer
+APCF10	cancer
+APCF10.1	cancer
+APCF10.2	cancer
+APCF10.3	cancer
+WTF1	control
+WTF1.1	control
+WTF1.2	control
+WTF1.3	control
+WTF10	control
+WTF10.1	control
+WTF10.2	control
+WTF10.3	control
